@@ -1,7 +1,15 @@
 {
-  "name": "bento",
-  "version": "1.2.0",
-  "description": "🍱 Minimalist, elegant and hackable startpage inspired by the Bento box!",
-  "author": "Miguel R. Ávila",
-  "license": "ISC"
+  "name": "zika-website",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.6.0"
+  },
+  "dependencies": {
+    "three": "^0.133.0"
+  }
 }
